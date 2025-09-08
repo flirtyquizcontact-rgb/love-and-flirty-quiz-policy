@@ -1,41 +1,37 @@
-# Terms of Service – FlirtyQuiz
+# Terms of Service — Love & Flirty Quiz
+_Last updated: 08 Sep 2025_
 
-**Last updated: September 2025**
+Welcome to **Love & Flirty Quiz** (also “**FlirtyQuiz**”, “the App”). By using the App, you agree to these Terms.
 
-Welcome to FlirtyQuiz! By downloading or using this app, you agree to the following terms and conditions.
+## 1. Eligibility & Content
+The App is intended for **adults (18+)**. It offers light, non-explicit flirting content. Do not use the App where it is illegal to do so.
 
-## Eligibility
-- You must be at least 18 years old to use FlirtyQuiz.  
-- By using the App, you confirm that you meet this requirement.
+## 2. License
+We grant you a personal, non-transferable, revocable license to use the App for non-commercial purposes in accordance with these Terms.
 
-## Use of the App
-- FlirtyQuiz is intended for personal entertainment only.  
-- You may not copy, distribute, reverse-engineer, or exploit the App.  
-- Quiz results are for fun and should not be considered professional advice.
+## 3. Purchases & Premium
+Premium content may be offered via **Google Play Billing**. Prices may change. All transactions are handled by Google; applicable store terms and tax rules apply. Access to Premium is granted to the purchasing account.
 
-## Premium Features
-- Some content is available only through the Premium version.  
-- Premium is unlocked via one-time purchase through Google Play Billing.  
-- All payments are processed by Google Play. We do not store payment data.
+## 4. Ads
+The App may display advertising (e.g., via Google AdMob). You can limit personalized ads in your device settings.
 
-## Advertising
-- The free version includes ads delivered via Google AdMob.  
-- Ads are provided by third parties, and we are not responsible for their content.
+## 5. User Conduct
+Do not misuse the App, attempt to reverse engineer it, disrupt its operation, or violate laws. Respect others and use the App responsibly.
 
-## Limitation of Liability
-- The App is provided "as is," without warranties of any kind.  
-- We are not liable for damages resulting from use or misuse of the App.  
-- Use of the App is at your own risk.
+## 6. Intellectual Property
+All content (questions, texts, UI, graphics) is owned by **QuizFans Studio** or its licensors and protected by applicable laws. You may not copy or redistribute without permission.
 
-## Termination
-- We reserve the right to suspend or terminate access if these Terms are violated.  
+## 7. Disclaimers
+The App is provided “AS IS” without warranties of any kind. We do not guarantee uninterrupted or error-free operation or specific outcomes.
 
-## Governing Law
-- These Terms are governed by the laws of your country of residence, unless local regulations state otherwise.  
+## 8. Limitation of Liability
+To the maximum extent permitted by law, we are not liable for indirect, incidental, special, or consequential damages arising from use of the App.
 
-## Changes
-- We may update these Terms at any time. Continued use means you accept the latest version.  
+## 9. Termination
+We may suspend or terminate access if you breach these Terms. You may stop using the App at any time by uninstalling it.
 
-## Contact
-For support or questions about these Terms, contact us:  
-📧 **flirtyquiz.contact@gmail.com**
+## 10. Changes
+We may modify these Terms; continued use after changes means acceptance. The “Last updated” date applies.
+
+## 11. Contact
+**QuizFans Studio** — **flirtyquiz.contact@gmail.com**
