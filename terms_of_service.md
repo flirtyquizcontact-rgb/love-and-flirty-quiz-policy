@@ -2,38 +2,40 @@
 
 **Last updated: September 2025**
 
-Welcome to FlirtyQuiz! By downloading or using this app, you agree to the following terms and conditions. Please read them carefully.
+Welcome to FlirtyQuiz! By downloading or using this app, you agree to the following terms and conditions.
 
 ## Eligibility
-- You must be at least 18 years old to use FlirtyQuiz, as the content may contain romantic or suggestive elements not suitable for minors.  
-- By using the app, you confirm that you meet this requirement.
+- You must be at least 18 years old to use FlirtyQuiz.  
+- By using the App, you confirm that you meet this requirement.
 
 ## Use of the App
-- FlirtyQuiz is intended for personal entertainment purposes only.  
-- You agree not to copy, distribute, reverse engineer, or misuse the app in any way.  
-- We are not responsible for any interpretation of quiz results or actions taken based on them.
+- FlirtyQuiz is intended for personal entertainment only.  
+- You may not copy, distribute, reverse-engineer, or exploit the App.  
+- Quiz results are for fun and should not be considered professional advice.
 
 ## Premium Features
-- Some features are available only through the Premium version.  
-- Premium access is unlocked through a one-time in-app purchase handled exclusively by Google Play Billing.  
-- We do not process or store any payment information. All transactions are secured and managed by Google Play.
+- Some content is available only through the Premium version.  
+- Premium is unlocked via one-time purchase through Google Play Billing.  
+- All payments are processed by Google Play. We do not store payment data.
 
 ## Advertising
-- The free version of the app displays ads via Google AdMob.  
-- Ad content is provided by third parties and is not controlled by FlirtyQuiz.  
+- The free version includes ads delivered via Google AdMob.  
+- Ads are provided by third parties, and we are not responsible for their content.
 
 ## Limitation of Liability
-- The app is provided "as is" without warranties of any kind.  
-- We are not liable for any damages, direct or indirect, arising from the use of FlirtyQuiz.  
-- You use the app at your own risk.
+- The App is provided "as is," without warranties of any kind.  
+- We are not liable for damages resulting from use or misuse of the App.  
+- Use of the App is at your own risk.
 
 ## Termination
-- We reserve the right to suspend or terminate access to FlirtyQuiz at any time if these Terms are violated.  
+- We reserve the right to suspend or terminate access if these Terms are violated.  
+
+## Governing Law
+- These Terms are governed by the laws of your country of residence, unless local regulations state otherwise.  
 
 ## Changes
-- These Terms of Service may be updated from time to time.  
-- The latest version will always be available at this link.  
+- We may update these Terms at any time. Continued use means you accept the latest version.  
 
 ## Contact
-For questions or support, please contact us at:  
-**flirtyquiz.contact@gmail.com**
+For support or questions about these Terms, contact us:  
+📧 **flirtyquiz.contact@gmail.com**
