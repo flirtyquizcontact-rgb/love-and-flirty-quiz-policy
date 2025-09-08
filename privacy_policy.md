@@ -1,42 +1,49 @@
-# Privacy Policy – FlirtyQuiz
+# Privacy Policy — Love & Flirty Quiz
+_Last updated: 08 Sep 2025_
 
-**Last updated: September 2025**
+This Privacy Policy describes how **Love & Flirty Quiz** (also referred to as “**FlirtyQuiz**”, “the App”, “we/us/our”) handles information.
 
-FlirtyQuiz ("the App") is developed and published by FlirtyQuiz Studio. This Privacy Policy explains how we collect, use, and protect information worldwide.
+## Who we are
+Publisher: **QuizFans Studio**  
+Contact: **flirtyquiz.contact@gmail.com**
 
-## Data We Collect
-- **Quiz answers**: Processed locally on your device to generate results. We do not transmit or store this data.  
-- **Advertising**: The App uses Google AdMob to display ads. AdMob may collect identifiers (such as Advertising ID), device information, and usage data for ad personalization. See: [Google Privacy Policy](https://policies.google.com/privacy).  
-- **Payments**: Premium unlocks are handled exclusively by Google Play Billing. We do not process or store payment data.  
+## What we collect
+We do **not** require accounts and do **not** ask you to enter personal data. The App may process the following through third-party services:
+- **Advertising data & device identifiers** (e.g., Advertising ID) for showing ads and measuring performance (e.g., Google AdMob).
+- **Purchase information** limited to Google Play billing tokens for unlocking Premium content (handled by Google).
+- **Crash/diagnostic data** (if enabled) to improve stability.
 
-## How We Use Data
-- To display ads and measure performance (via AdMob).  
-- To enable optional Premium access after purchase.  
-- To improve user experience according to user settings and consents.  
+We do **not** knowingly collect sensitive categories of data.
 
-## Legal Basis for Processing
-- **GDPR (EU)**: processing is based on legitimate interests (ads) and consent (ad personalization).  
-- **CCPA (California)**: users may opt out of data sharing for personalized ads.  
+## How we use data
+- Deliver core features (levels, results, premium unlock).
+- Show and measure ads.
+- Handle purchases.
+- Improve quality and fix crashes.
 
-## Children's Privacy
-- FlirtyQuiz is not directed at children under 18.  
-- If you are under 18, please do not use the App.  
+## Sharing
+We may share limited data with service providers strictly to operate the App (e.g., ad networks, billing, crash reporting). We do not sell personal data.
 
-## Security
-- Quiz answers and personal identifiers are never sent to our servers.  
-- Ads and payments are handled securely by Google services.  
+## Storage & retention
+We do not store personal data on our own servers. Third parties retain data per their policies.
 
-## User Rights
-- **GDPR (EU)**: right to access, correct, delete, or restrict processing of your data.  
-- **CCPA (California)**: right to opt out of data sale (AdMob does not "sell" data but may use identifiers for ads).  
-- Ad personalization can be managed from Android device settings.  
+## Children & age
+The App targets **adults (18+)** and contains only non-explicit flirting content. If you are under 18, do not use the App.
 
-## International Transfers
-Data collected by AdMob may be processed on servers outside your country. Google ensures compliance with international data transfer regulations.  
+## Your choices
+- Reset your device’s advertising ID.
+- Opt out of personalized ads in device settings.
+- Uninstall the App to stop all processing.
+
+## International transfers
+Third-party services may process data globally under their safeguards.
+
+## Third-party policies
+- Google AdMob/Ads: https://policies.google.com/privacy
+- Google Play Billing: https://policies.google.com/privacy
 
 ## Changes
-We may update this Privacy Policy. The latest version will always be available at this link.  
+We may update this Policy; the “Last updated” date applies.
 
 ## Contact
-If you have questions or concerns about this Privacy Policy, please contact us:  
-📧 **flirtyquiz.contact@gmail.com**
+Questions? **flirtyquiz.contact@gmail.com**
