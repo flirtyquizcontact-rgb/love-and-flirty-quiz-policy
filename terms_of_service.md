@@ -1,37 +1,107 @@
-# Terms of Service — Love & Flirty Quiz
-_Last updated: 08 Sep 2025_
+Terms of Service — Love & Flirty Quiz
 
-Welcome to **Love & Flirty Quiz** (also “**FlirtyQuiz**”, “the App”). By using the App, you agree to these Terms.
+Last updated: 12 Sep 2025
 
-## 1. Eligibility & Content
-The App is intended for **adults (18+)**. It offers light, non-explicit flirting content. Do not use the App where it is illegal to do so.
+Welcome to Love & Flirty Quiz (“the App”, “we”, “our”). By downloading or using the App, you agree to these Terms of Service.
 
-## 2. License
-We grant you a personal, non-transferable, revocable license to use the App for non-commercial purposes in accordance with these Terms.
+The App is developed and published by QuizFans Studio.
 
-## 3. Purchases & Premium
-Premium content may be offered via **Google Play Billing**. Prices may change. All transactions are handled by Google; applicable store terms and tax rules apply. Access to Premium is granted to the purchasing account.
 
-## 4. Ads
-The App may display advertising (e.g., via Google AdMob). You can limit personalized ads in your device settings.
 
-## 5. User Conduct
-Do not misuse the App, attempt to reverse engineer it, disrupt its operation, or violate laws. Respect others and use the App responsibly.
+1. Eligibility & Content
 
-## 6. Intellectual Property
-All content (questions, texts, UI, graphics) is owned by **QuizFans Studio** or its licensors and protected by applicable laws. You may not copy or redistribute without permission.
+The App is designed for users aged 13 and older.
 
-## 7. Disclaimers
-The App is provided “AS IS” without warranties of any kind. We do not guarantee uninterrupted or error-free operation or specific outcomes.
+The App contains light, non-explicit flirting content, for entertainment purposes only.
 
-## 8. Limitation of Liability
-To the maximum extent permitted by law, we are not liable for indirect, incidental, special, or consequential damages arising from use of the App.
+If you are under 13, you may not use the App. If you are between 13–17, you should use the App under parental guidance.
 
-## 9. Termination
-We may suspend or terminate access if you breach these Terms. You may stop using the App at any time by uninstalling it.
+Do not use the App in jurisdictions where its use is prohibited.
 
-## 10. Changes
-We may modify these Terms; continued use after changes means acceptance. The “Last updated” date applies.
 
-## 11. Contact
-**QuizFans Studio** — **flirtyquiz.contact@gmail.com**
+
+
+2. License
+
+We grant you a limited, non-exclusive, non-transferable, revocable license to use the App for personal, non-commercial purposes only.
+
+
+
+3. Purchases & Premium
+
+Some features (e.g., Premium Pack) may require payment via Google Play Billing.
+
+All purchases are processed by Google Play; their terms, policies, and applicable tax rules apply.
+
+Premium access is linked to the purchasing Google account.
+
+
+
+
+4. Advertising
+
+The Standard Pack of the App may display advertising (Google AdMob or similar).
+
+Premium Pack is ad-free.
+
+You can control personalized ads via your device or Google account settings.
+
+
+
+
+5. User Conduct
+
+You agree not to:
+
+Misuse or interfere with the App.
+
+Attempt to reverse engineer, decompile, or hack the App.
+
+Use the App in ways that violate applicable laws or harm others.
+
+
+
+
+6. Intellectual Property
+
+All content (questions, texts, design, graphics, code) belongs to QuizFans Studio or its licensors.
+
+You may not copy, reproduce, or redistribute the App or its content without written permission.
+
+
+
+
+7. Disclaimers
+
+The App is provided “AS IS”, without warranties of any kind.
+
+We do not guarantee uninterrupted service, error-free operation, or specific results.
+
+
+
+
+8. Limitation of Liability
+
+To the fullest extent permitted by law, QuizFans Studio is not responsible for indirect, incidental, or consequential damages resulting from your use of the App.
+
+
+
+9. Termination
+
+We may suspend or terminate access if you breach these Terms.
+
+You may stop using the App at any time by uninstalling it.
+
+
+
+
+10. Changes
+
+We may update these Terms from time to time. The “Last updated” date at the top applies. Continued use of the App means acceptance of the updated Terms.
+
+
+
+11. Contact
+
+If you have questions about these Terms, contact us at:
+📧 flirtyquiz.contact@gmail.com
