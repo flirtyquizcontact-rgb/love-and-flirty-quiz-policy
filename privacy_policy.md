@@ -1,74 +1,115 @@
 Privacy Policy — Love & Flirty Quiz
 
-Last updated: 08 Sep 2025
+Last updated: 12 Sep 2025
 
-This Privacy Policy describes how Love & Flirty Quiz (also referred to as “FlirtyQuiz”, “the App”, “we/us/our”) handles information.
+This Privacy Policy explains how Love & Flirty Quiz (“the App”, “we”, “our”) handles user information.
 The App is developed and published by QuizFans Studio.
+
+
 
 Who we are
 
 Publisher: QuizFans Studio
+
 Contact: flirtyquiz.contact@gmail.com
 
-What we collect
 
-We do not require accounts and do not ask you to enter personal data.
-The App may process the following through third-party services:
 
-Advertising data & device identifiers (e.g., Advertising ID) for showing ads and measuring performance (Google AdMob).
 
-Purchase information limited to Google Play billing tokens for unlocking Premium content (handled by Google).
+Information we collect
 
-Crash/diagnostic data (if enabled) to improve stability.
+The App does not require accounts and does not request personal information.
 
-We do not knowingly collect sensitive categories of data.
+However, third-party services integrated into the App may collect:
+
+Advertising identifiers & analytics data – to show personalized or contextual ads (Google AdMob).
+
+Purchase information – limited to billing tokens for unlocking Premium content, processed only by Google Play.
+
+Crash/diagnostic data – if enabled on your device, to improve stability and fix bugs.
+
+
+We do not knowingly collect sensitive categories of data (e.g., health, political, biometric).
+
+
 
 How we use data
 
-Deliver core features (levels, results, premium unlock).
+To deliver gameplay features (levels, scoring, results, Premium unlock).
 
-Show and measure ads.
+To display and measure ads (Standard Pack only).
 
-Handle purchases.
+To process in-app purchases (via Google Play).
 
-Improve quality and fix crashes.
+To improve quality, stability, and performance.
 
-Sharing
 
-We may share limited data with service providers strictly to operate the App (e.g., ad networks, billing, crash reporting).
-We do not sell personal data.
+
+
+Data sharing
+
+We may share limited technical data with third-party providers strictly to operate the App:
+
+Google AdMob (ads)
+
+Google Play Billing (purchases)
+
+Google Firebase / Play Services (crash reports, diagnostics)
+
+
+We do not sell or rent personal data.
+
+
 
 Storage & retention
 
 We do not store personal data on our own servers.
-Third parties (Google AdMob, Google Play) retain data per their own policies.
 
-Children & age
+Third-party services (Google) handle data according to their own privacy policies.
 
-The App targets adults (18+) and contains only non-explicit flirting content.
-If you are under 18, do not use the App.
+
+
+Children & age restrictions
+
+The App is designed for users aged 13+.
+
+It contains light flirting/entertainment content, but no explicit or adult-only material.
+
+If you are under 13, you may not use the App.
+
+If you are between 13–17, you should use the App under parental guidance.
+
+
 
 International transfers
 
-Third-party services may process data globally under their safeguards.
+Third-party services may process data in multiple regions under their own compliance safeguards (e.g., GDPR, CCPA).
 
-Third-party policies
 
-Google AdMob / Ads Privacy Policy
 
-Google Play Billing Privacy Policy
+Third-party links & policies
+
+Google AdMob Privacy Policy
+
+Google Play Terms & Privacy
+
+
 
 Disclaimer
 
-This Privacy Policy applies only to Love & Flirty Quiz and not to any other apps or websites.
-We encourage you to review third-party policies before use.
+This Privacy Policy applies only to Love & Flirty Quiz and does not cover other apps or websites.
+We recommend reviewing third-party policies before use.
+
+
 
 Changes
 
-We may update this Policy from time to time.
-The “Last updated” date applies.
+We may update this Privacy Policy periodically.
+The “Last updated” date at the top indicates the latest revision.
+
+
 
 Contact
 
-If you have any questions, please contact us:
+If you have questions, contact us at:
 📧 flirtyquiz.contact@gmail.com
