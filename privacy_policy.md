@@ -88,10 +88,9 @@ Third-party services may process data in multiple regions under their own compli
 
 
 Third-party links & policies
-
+- Google AdMob Privacy: https://policies.google.com/technologies/ads
+- Google Play Terms & Privacy: https://policies.google.com/
 Google AdMob Privacy Policy
-
-Google Play Terms & Privacy
 
 
 
