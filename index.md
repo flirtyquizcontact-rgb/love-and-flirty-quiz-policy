@@ -12,4 +12,4 @@ Welcome! Here you can find the public documents for the **Love & Flirty Quiz** m
 - 📜 **Terms of Service**  
   <a href="./terms_of_service.md">Open Terms of Service</a>
 
-For any questions, contact us at: **flirtyquizcontact.rgb@gmail.com**
+For any questions, contact us at: **flirtyquizcontact@gmail.com**
