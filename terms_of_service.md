@@ -29,12 +29,17 @@ We grant you a limited, non-exclusive, non-transferable, revocable license to us
 
 3. Purchases & Premium
 
-Some features (e.g., Premium Pack) may require payment via Google Play Billing.
+Some features (e.g., Premium Pack) require a one-time payment via Google Play Billing.
 
-All purchases are processed by Google Play; their terms, policies, and applicable tax rules apply.
+The Premium Pack unlocks **20 exclusive levels** in addition to the Standard content.  
 
-Premium access is linked to the purchasing Google account.
+The Premium Pack removes all advertising (no banners, no interstitial ads).  
 
+Premium Pack is a **non-consumable purchase**, meaning it is permanently linked to the Google account used for the purchase.  
+
+If you reinstall the App or change devices, you can restore your Premium purchase at no extra cost by using the **“Restore Purchases”** option in the App menu.  
+
+All purchases are processed securely by Google Play; Google’s terms, privacy policies, and applicable tax rules apply.  
 
 
 
