@@ -11,6 +11,8 @@ Who we are
 
 Publisher: QuizFans Studio
 
+Our mission: A small team for big fun
+
 Contact: flirtyquiz.contact@gmail.com
 
 
@@ -109,5 +111,5 @@ The “Last updated” date at the top indicates the latest revision.
 
 Contact
 
-If you have questions, contact us at:
+If you have questions, any suggestion is welcome, please contact us at:
 📧 flirtyquiz.contact@gmail.com
