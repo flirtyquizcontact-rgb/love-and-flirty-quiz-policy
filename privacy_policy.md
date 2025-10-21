@@ -1,115 +1,93 @@
-Privacy Policy — Love & Flirty Quiz
+# Privacy Policy — Love & Flirty Quiz
 
-Last updated: 12 Sep 2025
+_Last updated: 21 Oct 2025_
 
-This Privacy Policy explains how Love & Flirty Quiz (“the App”, “we”, “our”) handles user information.
-The App is developed and published by QuizFans Studio.
+This Privacy Policy explains how **Love & Flirty Quiz** ("the App", "we", "our") handles user information.  
+The App is developed and published by **QuizFans Studio**.
 
+---
 
+## Who We Are
+**Publisher:** QuizFans Studio  
+**Mission:** A small team creating big fun experiences  
+**Contact:** flirtyquiz.contact@gmail.com  
 
-Who we are
+---
 
-Publisher: QuizFans Studio
+## Information We Collect
+The App does **not require user accounts** and does **not request personal data** (such as name, email, address, or phone number).  
 
-Our mission: A small team for big fun
+However, certain **third-party SDKs** integrated into the App may automatically collect limited technical information:
 
-Contact: flirtyquiz.contact@gmail.com
+- **Advertising identifiers and analytics data** – to serve and measure ads (via **Liftoff Monetize SDK**, formerly Vungle, and **Firebase Analytics**).  
+- **Crash and diagnostic data** – to detect app errors, improve stability and performance (via **Firebase Crashlytics**).  
+- **Purchase tokens** – processed securely by **Google Play Billing** when unlocking Premium content.  
 
+No sensitive categories of data (e.g., health, political, biometric, religious, or sexual orientation) are collected.  
+No data is ever linked to a specific identity.
 
+---
 
+## How We Use Data
+We use the data strictly for:
+- Delivering app functionality (levels, scoring, rewards, Premium unlocks)  
+- Analytics and crash diagnostics to improve stability and performance  
+- Displaying and measuring **in-app advertisements** (Standard Pack, Daily Bonus, Rewarded Ads)  
+- Preventing fraud and ensuring ad network integrity  
 
-Information we collect
+All data transmitted is **encrypted in transit** and handled under platform compliance standards (GDPR, CCPA, COPPA 13+).
 
-The App does not require accounts and does not request personal information.
+---
 
-However, third-party services integrated into the App may collect:
+## Data Sharing
+We share limited technical information with the following providers:
 
-Advertising identifiers & analytics data – to show personalized or contextual ads (Google AdMob).
+| Provider | Purpose | Policy |
+|-----------|----------|--------|
+| **Google Firebase / Play Services** | Analytics, crash reporting, diagnostics | [https://policies.google.com/](https://policies.google.com/) |
+| **Liftoff Monetize (Vungle)** | Ad delivery and performance measurement | [https://liftoff.io/privacy-policy/](https://liftoff.io/privacy-policy/) |
+| **Google Play Billing** | Secure payment processing | [https://play.google.com/about/play-terms/](https://play.google.com/about/play-terms/) |
 
-Purchase information – limited to billing tokens for unlocking Premium content, processed only by Google Play.
+We **do not sell**, **rent**, or **trade** user data.  
+All third-party SDKs operate under their respective privacy and compliance frameworks.
 
-Crash/diagnostic data – if enabled on your device, to improve stability and fix bugs.
+---
 
+## Data Retention and Deletion
+We do **not store any personal data** on our own servers.  
+Technical data (e.g., analytics events) are retained by Firebase and Liftoff according to their standard retention schedules.
 
-We do not knowingly collect sensitive categories of data (e.g., health, political, biometric).
+Users may request deletion of analytics-related data by contacting us at  
+📧 **flirtyquiz.contact@gmail.com**
 
+---
 
+## Children and Age Restrictions
+The App is intended for users aged **13 and above**.  
+It contains light romantic and entertainment content, but **no explicit or adult material**.  
+If you are under 13, please do not use this App.  
+If you are aged 13–17, we recommend parental guidance.
 
-How we use data
+---
 
-To deliver gameplay features (levels, scoring, results, Premium unlock).
+## International Data Transfers
+Our third-party providers (Firebase, Google Play, Liftoff) may process anonymized technical data in multiple regions under GDPR- and CCPA-compliant safeguards.
 
-To display and measure ads (Standard Pack only).
+---
 
-To process in-app purchases (via Google Play).
+## Third-Party Links
+This App may display or link to external websites or content.  
+We are not responsible for external sites’ privacy practices.  
+We encourage you to review each third-party policy before use.
 
-To improve quality, stability, and performance.
+---
 
+## Changes to This Policy
+We may update this Privacy Policy periodically to reflect legal, technical, or functional changes.  
+The “Last updated” date at the top of this page indicates the latest revision.
 
+---
 
-
-Data sharing
-
-We may share limited technical data with third-party providers strictly to operate the App:
-
-Google AdMob (ads)
-
-Google Play Billing (purchases)
-
-Google Firebase / Play Services (crash reports, diagnostics)
-
-
-We do not sell or rent personal data.
-
-
-
-Storage & retention
-
-We do not store personal data on our own servers.
-
-Third-party services (Google) handle data according to their own privacy policies.
-
-
-
-Children & age restrictions
-
-The App is designed for users aged 13+.
-
-It contains light flirting/entertainment content, but no explicit or adult-only material.
-
-If you are under 13, you may not use the App.
-
-If you are between 13–17, you should use the App under parental guidance.
-
-
-
-International transfers
-
-Third-party services may process data in multiple regions under their own compliance safeguards (e.g., GDPR, CCPA).
-
-
-
-Third-party links & policies
-- Google AdMob Privacy: https://policies.google.com/technologies/ads
-- Google Play Terms & Privacy: https://policies.google.com/
-
-
-
-Disclaimer
-
-This Privacy Policy applies only to Love & Flirty Quiz and does not cover other apps or websites.
-We recommend reviewing third-party policies before use.
-
-
-
-Changes
-
-We may update this Privacy Policy periodically.
-The “Last updated” date at the top indicates the latest revision.
-
-
-
-Contact
-
-If you have questions, any suggestion is welcome, please contact us at:
-📧 flirtyquiz.contact@gmail.com
+## Contact
+If you have questions or requests about this Privacy Policy, please contact us:  
+📧 **flirtyquiz.contact@gmail.com**
