@@ -49,6 +49,7 @@ We share limited technical information with the following providers:
 | **Google Play Billing** | Secure payment processing | [https://play.google.com/about/play-terms/](https://play.google.com/about/play-terms/) |
 
 We **do not sell**, **rent**, or **trade** user data.  
+App may show cross-promotion for our other apps; no personal data is shared.
 All third-party SDKs operate under their respective privacy and compliance frameworks.
 
 ---
