@@ -22,8 +22,7 @@ However, certain **third-party SDKs** integrated into the App may automatically 
 
 ### Advertising & Analytics  
 Collected via:
-- **Google Mobile Ads SDK (AdMob + Liftoff Monetize mediation)**  
-- **Liftoff Monetize SDK (formerly Vungle)**  
+- **Google Mobile Ads SDK (AdMob)**   
 - **Firebase Analytics**
 
 This may include:
@@ -65,7 +64,6 @@ We share anonymous technical data only with service providers:
 |----------|---------|--------|
 | **Google Firebase / Play Services** | Analytics & crash diagnostics | https://policies.google.com/ |
 | **Google Mobile Ads (AdMob)** | Ad delivery & performance | https://policies.google.com/technologies/ads |
-| **Liftoff Monetize (Vungle)** | Ad mediation & optimization | https://liftoff.io/privacy-policy/ |
 | **Google Play Billing** | Secure purchases | https://play.google.com/about/play-terms/ |
 
 We **do not sell**, **rent**, or **trade** data.  
