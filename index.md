@@ -1,10 +1,10 @@
 ---
-title: Love & Flirty Quiz – Policies
+title: Funny Lovely Quiz – Policies
 ---
 
-# Love & Flirty Quiz – Policies
+# Funny Lovely Quiz – Policies
 
-Welcome! Here you can find the public documents for the **Love & Flirty Quiz** mobile app.
+Welcome! Here you can find the public documents for the **Funny Lovely Quiz** mobile app.
 
 - 📄 **Privacy Policy**  
   <a href="./privacy_policy.md">Open Privacy Policy</a>
