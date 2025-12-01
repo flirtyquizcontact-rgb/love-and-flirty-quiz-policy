@@ -1,10 +1,10 @@
 ---
-title: Funny Lovely Quiz – Policies
+title: Funny Love Anime Quiz – Policies
 ---
 
-# Funny Lovely Quiz – Policies
+# Funny Love Anime Quiz – Policies
 
-Welcome! Here you can find the public documents for the **Funny Lovely Quiz** mobile app.
+Welcome! Here you can find the public documents for the **Funny Love Anime Quiz** mobile app.
 
 - 📄 **Privacy Policy**  
   <a href="./privacy_policy.md">Open Privacy Policy</a>
