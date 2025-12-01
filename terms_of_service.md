@@ -46,7 +46,7 @@ The App offers optional in-app purchases processed via **Google Play Billing**.
 ---
 
 ## 4. Advertising
-- The **Standard Pack** of the App may display ads using Google Mobile Ads SDK (AdMob / Liftoff mediation).  
+- The **Standard Pack** of the App may display ads using Google Mobile Ads SDK (AdMob).  
 - The **Premium Pack** disables all forms of advertising.  
 - You may adjust personalized ad settings through your Google account or device settings.
 
