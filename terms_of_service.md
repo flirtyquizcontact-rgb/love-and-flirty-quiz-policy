@@ -1,9 +1,9 @@
-# Terms of Service — Funny Lovely Quiz
+# Terms of Service — Funny Love Anime Quiz
 
 _Last updated: 29 Nov 2025_  
 _App Version: 2.0.0_
 
-Welcome to **Funny Lovely Quiz** (“the App”, “we”, “our”).  
+Welcome to **Funny Love Anime Quiz** (“the App”, “we”, “our”).  
 By downloading, installing, or using the App, you agree to these Terms of Service.
 
 The App is developed and published by **QuizFans Studio**.
