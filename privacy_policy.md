@@ -1,6 +1,6 @@
 # Privacy Policy — Funny Lovely Quiz
 
-_Last updated: 01 Dec 2025_  
+_Last updated: 04 Dec 2025_  
 _App Version: 2.0.0_
 
 This Privacy Policy explains how **Funny Lovely Quiz** ("the App", "we", "our") handles user information.  
