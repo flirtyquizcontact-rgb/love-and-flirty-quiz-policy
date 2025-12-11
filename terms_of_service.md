@@ -1,9 +1,9 @@
-# Terms of Service — Funny Lovely Quiz
+# Terms of Service — Funny Quiz: Couples & Party
 
-_Last updated: 04 Dec 2025_  
+_Last updated: 11 Dec 2025_  
 _App Version: 2.0.0_
 
-Welcome to **Funny Lovely Quiz** (“the App”, “we”, “our”).  
+Welcome to **Funny Quiz: Couples & Party** (“the App”, “we”, “our”).  
 By downloading, installing, or using the App, you agree to these Terms of Service.
 
 The App is developed and published by **QuizFans Studio**.
@@ -46,7 +46,7 @@ The App offers optional in-app purchases processed via **Google Play Billing**.
 ---
 
 ## 4. Advertising
-- The **Standard Pack** of the App may display ads using Google Mobile Ads SDK (AdMob).  
+- The **Standard Pack,True or Dare Party** of the App may display ads using Google Mobile Ads SDK (AdMob).  
 - The **Premium Pack** disables all forms of advertising.  
 - You may adjust personalized ad settings through your Google account or device settings.
 
