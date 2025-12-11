@@ -1,10 +1,10 @@
 ---
-title: Funny Lovely Quiz – Policies
+title: Funny Quiz: Couples & Party – Policies
 ---
 
-# Funny Lovely Quiz – Policies
+# Funny Quiz: Couples & Party – Policies
 
-Welcome! Here you can find the public documents for the **Funny Lovely Quiz** mobile app.
+Welcome! Here you can find the public documents for the **Funny Quiz: Couples & Party** mobile app.
 
 - 📄 **Privacy Policy**  
   <a href="./privacy_policy.md">Open Privacy Policy</a>
