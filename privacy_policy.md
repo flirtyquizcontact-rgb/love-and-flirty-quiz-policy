@@ -1,6 +1,6 @@
 # Privacy Policy — Funny Quiz: Couples & Party
 
-_Last updated: 04 Dec 2025_  
+_Last updated: 11 Dec 2025_  
 _App Version: 2.0.0_
 
 This Privacy Policy explains how **Funny Quiz: Couples & Party** ("the App", "we", "our") handles user information.  
