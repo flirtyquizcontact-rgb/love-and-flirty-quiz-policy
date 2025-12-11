@@ -1,9 +1,9 @@
-# Privacy Policy — Funny Lovely Quiz
+# Privacy Policy — Funny Quiz: Couples & Party
 
 _Last updated: 04 Dec 2025_  
 _App Version: 2.0.0_
 
-This Privacy Policy explains how **Funny Lovely Quiz** ("the App", "we", "our") handles user information.  
+This Privacy Policy explains how **Funny Quiz: Couples & Party** ("the App", "we", "our") handles user information.  
 The App is developed and published by **QuizFans Studio**.
 
 ---
