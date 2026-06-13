@@ -41,7 +41,7 @@ Depending on your device, region, consent choices and Google settings, Google an
 - Device, operating system and app information
 - Ad performance, diagnostics, fraud prevention and security information
 
-The App uses Google User Messaging Platform (UMP) where required to request and manage advertising consent choices. An â€œAd privacy optionsâ€ entry may be available inside the App when required.
+The App uses Google User Messaging Platform (UMP) where required to request and manage advertising consent choices. An Ad privacy option entry may be available inside the App when required.
 
 Premium users do not receive in-app advertisements after Premium access is successfully recognized. Google Play and other technical services may still process information required for purchases, security, analytics or crash reporting.
 
