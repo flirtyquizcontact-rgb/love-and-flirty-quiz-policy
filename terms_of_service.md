@@ -1,184 +1,184 @@
-# Privacy Policy - Flirty Vibes: Truth or Dare
+# Terms of Service - Flirty Vibes: Truth or Dare
 
 **Last updated:** 14 June 2026  
 **Developer / Publisher:** QuizFans Studio  
 **Contact:** flirtyquiz.contact@gmail.com  
 **Android package:** com.loveflirtyquiz.app
 
-This Privacy Policy explains how **Flirty Vibes: Truth or Dare** (the â€œAppâ€, â€œweâ€, â€œourâ€ or â€œusâ€) handles information when you install or use the App.
+These Terms of Service (Terms) govern your use of **Flirty Vibes: Truth or Dare** (the â€œAppâ€). By downloading, installing, purchasing or using the App, you agree to these Terms.
 
-## 1. Overview
+If you do not agree, do not use the App.
 
-The App is a local party and quiz game for couples, friends and groups. It does not require an account, login, email address, phone number or profile registration.
+## 1. Eligibility
 
-The App stores certain gameplay information locally on your device. It also uses third-party Google services for advertising, analytics, crash reporting and in-app purchases. These services may automatically process limited technical information as described below.
+The App is intended for users aged **16 and older**.
 
-## 2. Information Stored Locally on Your Device
+If you are under the age of legal majority in your country, you may use the App only with permission from a parent or legal guardian.
 
-The App may store the following information locally using device storage:
+The App is not intended for children under 13.
 
-- Player names entered in Party mode
-- Selected language and music settings
-- Selected game vibe
-- Hearts, streaks, XP, missions and gameplay progress
-- Unlocked bonus content
-- Premium access status and restore state
-- Daily reward status
+## 2. Entertainment Purpose
 
-This local gameplay information is not uploaded to a QuizFans Studio server because the App does not operate user accounts or its own cloud database.
+The App is a local entertainment game containing quizzes, romantic questions, truth questions, party challenges and dares.
 
-You can remove local App data by clearing the Apps storage in Android settings or by uninstalling the App.
+The App does not provide medical, psychological, legal, relationship or professional advice. Quiz results and profiles are generated for entertainment and should not be treated as factual assessments of a person or relationship.
 
-## 3. Advertising
+## 3. Safe and Respectful Play
 
-The free version of the App uses **Google AdMob / Google Mobile Ads SDK** to display banner, interstitial and rewarded advertisements.
+You are responsible for deciding whether a question or challenge is appropriate for you and the people playing with you.
 
-Depending on your device, region, consent choices and Google settings, Google and its advertising partners may process information such as:
+You agree that:
 
-- IP address, which may be used to estimate general location
-- Advertising ID or other device and app identifiers, when available
-- App launches, taps, ad views and interactions
-- Device, operating system and app information
-- Ad performance, diagnostics, fraud prevention and security information
+- Every player may skip any question or challenge
+- Participation must be voluntary and based on consent
+- You will respect personal boundaries and local laws
+- You will not perform dangerous, illegal, humiliating, discriminatory or non-consensual acts
+- You will not pressure another person to reveal private information or complete a challenge
+- You will not use the App while driving or in any unsafe situation
 
-The App uses Google User Messaging Platform (UMP) where required to request and manage advertising consent choices. An â€œAd privacy optionsâ€ entry may be available inside the App when required.
+QuizFans Studio does not supervise gameplay and is not responsible for actions chosen by users outside the App.
 
-Premium users do not receive in-app advertisements after Premium access is successfully recognized. Google Play and other technical services may still process information required for purchases, security, analytics or crash reporting.
+## 4. License
 
-## 4. Analytics
+Subject to these Terms, QuizFans Studio grants you a limited, personal, non-exclusive, non-transferable, non-sublicensable and revocable license to use the App for private, non-commercial entertainment.
 
-The App uses **Firebase Analytics** to understand how features are used and to improve the App. Analytics events may include actions such as opening a game mode, starting or completing a quiz, selecting a vibe, claiming a reward, viewing a Premium screen or sharing a result.
+You may not:
 
-Firebase Analytics may process app interaction data, device or app identifiers, device information and general technical information according to Google terms and privacy practices.
+- Copy, sell, rent, redistribute or commercially exploit the App or its content
+- Reverse-engineer, decompile, modify or tamper with the App except where applicable law expressly permits it
+- Bypass Premium access, advertising, purchase validation or technical protections
+- Extract or republish question databases, artwork, audio, source code or other assets
+- Use the App to violate law, intellectual property rights or the rights of another person
+- Introduce malicious code or interfere with App operation
 
-We do not intentionally send player names, quiz answers, message content, email addresses or phone numbers to Firebase Analytics.
+## 5. Player Names and Local Data
 
-## 5. Crash Reporting and Diagnostics
+Party player names and gameplay progress may be stored locally on your device.
 
-The App uses **Firebase Crashlytics** to identify crashes, non-fatal errors and technical problems. Crashlytics may process:
+You are responsible for the names and text you enter. Do not enter unlawful, abusive or sensitive personal information belonging to another person without permission.
 
-- Crash logs and stack traces
-- Relevant app state at the time of a crash
-- Device model, operating system and app version
-- Diagnostic and performance information
-- Firebase installation identifiers
-- Developer-defined technical logs or error details
+Clearing App storage or uninstalling the App may permanently remove local progress, player names, settings, unlocked content or other locally stored data.
 
-This information is used to improve stability, security and performance.
+## 6. Free Features, Advertising and Rewards
 
-## 6. In-App Purchases
+The free version may display banner, interstitial and rewarded advertisements.
 
-The App offers an optional one-time Premium purchase through **Google Play Billing**.
+Rewarded features require successful completion of the advertising flow. Ad availability is not guaranteed and may vary by location, device, consent choice, network connection and advertising inventory.
 
-- Payments are processed by Google Play
-- We do not receive or store your full payment card or banking details
-- Google Play may provide purchase status, product identifiers, purchase tokens and transaction information required to activate or restore Premium access
-- Refunds and payment disputes are handled under Google Play applicable policies
+We may adjust ad placement, reward values, mission requirements or free feature availability to maintain and improve the App, provided that we comply with applicable law and platform rules.
 
-The Premium product identifier is `loveflirty.premium`.
+## 7. Premium Purchase
 
-## 7. Sharing Results
+The App offers an optional one-time, non-consumable Premium product through Google Play:
 
-The App can generate a result card or share text when you choose to use the sharing function. Sharing is initiated by you through the Android system share sheet.
+`loveflirty.premium`
 
-The App does not control which external app or service you select. Any third-party app used for sharing processes information according to its own privacy policy.
+Premium may include:
 
-## 8. How We Use Information
+- Removal of in-app advertisements
+- Access to Premium question content
+- Instant daily and bonus rewards
+- Additional result or gameplay features described inside the App
 
-Technical and gameplay information is used to:
+Premium features may evolve through updates. A purchase does not guarantee that every future feature or separate product will be included unless expressly stated.
 
-- Provide game functionality and save local progress
-- Display and manage advertisements
-- Process and restore Premium purchases
-- Measure feature usage and improve the user experience
-- Diagnose crashes, errors and performance problems
-- Prevent fraud, abuse and invalid advertising activity
-- Comply with legal and platform requirements
+## 8. Payment, Activation and Restoration
 
-## 9. Data Sharing
+All purchases are processed by Google Play under Googleâ€™s payment terms.
 
-We do not sell personal information.
+- Prices, taxes and available payment methods are displayed by Google Play
+- QuizFans Studio does not receive your full payment card or banking information
+- Premium access is activated after the App receives a valid purchase status
+- Restoration depends on the Google account used for the original purchase and Google Play availability
+- Refunds, cancellations and payment disputes are governed by Google Play policies and applicable consumer law
 
-Information may be processed or shared with the following service providers only as necessary to operate the App:
+Do not attempt to manipulate, falsify, duplicate or replay purchase information.
 
-- Google AdMob / Google Mobile Ads
-- Google User Messaging Platform
-- Firebase Analytics
-- Firebase Crashlytics
-- Google Play Billing and Google Play Services
-- External apps selected by the user through the Android share sheet
+## 9. Sharing
 
-These providers process information under their own terms, privacy policies and legal obligations.
+The App may allow you to generate and share quiz result cards or text through the Android system share sheet.
 
-## 10. Data Retention
+You choose the destination and are responsible for the content you share. External apps and platforms are governed by their own terms and privacy policies.
 
-- Local gameplay data remains on your device until you clear App storage or uninstall the App.
-- Advertising, analytics and diagnostic data is retained by Google according to the applicable service settings, legal requirements and Google retention policies.
-- Purchase records may be retained by Google Play as required for transaction processing, fraud prevention, accounting and legal compliance.
-- QuizFans Studio does not maintain a separate account database containing player profiles or payment information.
+Do not share another personâ€™s private information, image or result without permission.
 
-## 11. Security
+## 10. Intellectual Property
 
-We use established platform services and take reasonable steps to limit data collection to what is needed for App functionality, advertising, analytics, diagnostics and purchases.
+The App, including its code, artwork, interface, animations, questions, game logic, audio, branding and written content, is owned by QuizFans Studio or used under applicable licenses.
 
-No method of electronic transmission or storage is completely secure, and we cannot guarantee absolute security.
+Third-party names, trademarks and services remain the property of their respective owners. No affiliation or endorsement is implied unless expressly stated.
 
-## 12. Children and Age Eligibility
+## 11. Third-Party Services
 
-The App is intended for users aged **13 and older**.
+The App relies on third-party services, including Google Play, Google AdMob and Firebase.
 
-The App is not designed for children under 13 and we do not knowingly request account information from children. Users who are minors in their country should use the App only with permission and guidance from a parent or legal guardian.
+These services may be unavailable, interrupted or changed independently of QuizFans Studio. Your use of those services is also subject to their terms and policies.
 
-The App contains playful romantic themes and party challenges. Users should skip any question or challenge that makes them uncomfortable or that may be unsafe or inappropriate in their situation.
+## 12. Updates and Compatibility
 
-## 13. International Processing
+We may release updates that add, change, fix or remove features, content or technical components.
 
-Google and other service providers may process information in countries other than your country of residence. Such processing is subject to the providersâ€™ applicable safeguards and legal obligations.
+The App may not function on every device, operating system version or modified Android environment. Some features require internet access, Google Play Services or an active Google Play connection.
 
-## 14. Your Choices and Rights
+You are responsible for keeping your device and App version reasonably up to date.
 
-Depending on your location, you may have rights relating to access, correction, deletion, restriction, objection or complaint.
+## 13. Availability and Termination
 
-You can also:
+We may suspend, limit or discontinue all or part of the App when reasonably necessary for maintenance, security, legal compliance, platform requirements or product changes.
 
-- Clear local App data through Android settings
-- Uninstall the App
-- Reset or delete your Android Advertising ID through device settings
-- Use the App advertising privacy options when available
-- Control sharing by choosing whether to use the Android share function
+We may restrict access where these Terms are materially violated or where misuse threatens the App, other users or third-party services.
 
-For privacy questions or requests, contact:
+You may stop using the App at any time by uninstalling it.
 
-**flirtyquiz.contact@gmail.com**
+## 14. Disclaimer of Warranties
 
-Because the App does not use accounts or a QuizFans Studio server, we may not be able to identify data held by third-party providers without information from those providers.
+To the maximum extent permitted by law, the App is provided â€œas isâ€ and â€œas available.â€
 
-## 15. Third-Party Privacy Information
+We do not guarantee:
 
-Google Privacy Policy:  
-https://policies.google.com/privacy
+- Uninterrupted or error-free operation
+- Continuous availability of ads, rewards, purchases or third-party services
+- Compatibility with every device
+- Preservation of local data after deletion, reset, uninstall or device failure
+- Any particular relationship, personality or gameplay outcome
 
-How Google uses information from apps and sites:  
-https://policies.google.com/technologies/partner-sites
+Nothing in these Terms excludes warranties or consumer rights that cannot legally be excluded.
 
-Firebase privacy and security information:  
-https://firebase.google.com/support/privacy
+## 15. Limitation of Liability
 
-Google AdMob privacy information:  
-https://support.google.com/admob/answer/6128543
+To the maximum extent permitted by law, QuizFans Studio is not liable for indirect, incidental, special, consequential or punitive losses arising from:
 
-Google Play Terms of Service:  
-https://play.google.com/about/play-terms/
+- User-selected dares, challenges or interactions
+- Loss of local progress or settings
+- Device, network or third-party service failure
+- External content or sharing destinations
+- Unauthorized use of a device or Google account
 
-## 16. Changes to This Privacy Policy
+Where liability cannot legally be excluded, it is limited to the extent permitted by applicable law.
 
-We may update this Privacy Policy when the App, third-party services, legal requirements or data practices change.
+## 16. Indemnity
 
-The â€œLast updatedâ€ date at the top identifies the latest revision. Material changes may also be communicated through the App or the Google Play listing where appropriate.
+Where permitted by law, you agree to be responsible for claims or losses resulting from your unlawful misuse of the App, violation of these Terms or infringement of another personâ€™s rights.
 
-## 17. Contact
+## 17. Privacy
 
-For privacy-related questions, requests or complaints:
+Use of the App is also governed by the Privacy Policy:
+
+https://flirtyquizcontact-rgb.github.io/love-and-flirty-quiz-policy/privacy_policy.md
+
+## 18. Changes to These Terms
+
+We may update these Terms because of legal, technical, security or product changes.
+
+The â€œLast updatedâ€ date identifies the latest revision. Continued use after an update means you accept the revised Terms, except where applicable law requires another form of consent.
+
+## 19. Applicable Law
+
+These Terms are governed by applicable law, including mandatory consumer protection rules in your country of residence. Nothing in these Terms limits rights that cannot be waived by contract.
+
+## 20. Contact
+
+Questions about these Terms may be sent to:
 
 **QuizFans Studio**  
 **Email:** flirtyquiz.contact@gmail.com
