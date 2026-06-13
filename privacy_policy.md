@@ -174,7 +174,7 @@ https://play.google.com/about/play-terms/
 
 We may update this Privacy Policy when the App, third-party services, legal requirements or data practices change.
 
-The â€œLast updatedâ€ date at the top identifies the latest revision. Material changes may also be communicated through the App or the Google Play listing where appropriate.
+The Last update date at the top identifies the latest revision. Material changes may also be communicated through the App or the Google Play listing where appropriate.
 
 ## 17. Contact
 
