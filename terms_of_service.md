@@ -1,4 +1,4 @@
-# Privacy Policy â€” Flirty Vibes: Truth or Dare
+# Privacy Policy Flirty Vibes: Truth or Dare
 
 **Last updated:** 14 June 2026  
 **Developer / Publisher:** QuizFans Studio  
