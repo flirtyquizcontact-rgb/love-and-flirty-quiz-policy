@@ -1,7 +1,3 @@
----
-title: Flirty Vibes: Truth or Dare – Policies
----
-
 # Flirty Vibes: Truth or Dare – Policies
 
 Welcome! Here you can find the public documents for the **Flirty Vibes: Truth or Dare** mobile app.
