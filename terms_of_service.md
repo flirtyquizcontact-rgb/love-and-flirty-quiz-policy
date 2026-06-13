@@ -1,4 +1,4 @@
-# Privacy Policy Flirty Vibes: Truth or Dare
+# Privacy Policy - Flirty Vibes: Truth or Dare
 
 **Last updated:** 14 June 2026  
 **Developer / Publisher:** QuizFans Studio  
@@ -27,7 +27,7 @@ The App may store the following information locally using device storage:
 
 This local gameplay information is not uploaded to a QuizFans Studio server because the App does not operate user accounts or its own cloud database.
 
-You can remove local App data by clearing the Appâ€™s storage in Android settings or by uninstalling the App.
+You can remove local App data by clearing the Apps storage in Android settings or by uninstalling the App.
 
 ## 3. Advertising
 
@@ -41,7 +41,7 @@ Depending on your device, region, consent choices and Google settings, Google an
 - Device, operating system and app information
 - Ad performance, diagnostics, fraud prevention and security information
 
-The App uses Googleâ€™s User Messaging Platform (UMP) where required to request and manage advertising consent choices. An â€œAd privacy optionsâ€ entry may be available inside the App when required.
+The App uses Google User Messaging Platform (UMP) where required to request and manage advertising consent choices. An â€œAd privacy optionsâ€ entry may be available inside the App when required.
 
 Premium users do not receive in-app advertisements after Premium access is successfully recognized. Google Play and other technical services may still process information required for purchases, security, analytics or crash reporting.
 
@@ -49,7 +49,7 @@ Premium users do not receive in-app advertisements after Premium access is succe
 
 The App uses **Firebase Analytics** to understand how features are used and to improve the App. Analytics events may include actions such as opening a game mode, starting or completing a quiz, selecting a vibe, claiming a reward, viewing a Premium screen or sharing a result.
 
-Firebase Analytics may process app interaction data, device or app identifiers, device information and general technical information according to Googleâ€™s terms and privacy practices.
+Firebase Analytics may process app interaction data, device or app identifiers, device information and general technical information according to Google terms and privacy practices.
 
 We do not intentionally send player names, quiz answers, message content, email addresses or phone numbers to Firebase Analytics.
 
@@ -73,7 +73,7 @@ The App offers an optional one-time Premium purchase through **Google Play Billi
 - Payments are processed by Google Play
 - We do not receive or store your full payment card or banking details
 - Google Play may provide purchase status, product identifiers, purchase tokens and transaction information required to activate or restore Premium access
-- Refunds and payment disputes are handled under Google Playâ€™s applicable policies
+- Refunds and payment disputes are handled under Google Play applicable policies
 
 The Premium product identifier is `loveflirty.premium`.
 
@@ -125,7 +125,7 @@ No method of electronic transmission or storage is completely secure, and we can
 
 ## 12. Children and Age Eligibility
 
-The App is intended for users aged **16 and older**.
+The App is intended for users aged **13 and older**.
 
 The App is not designed for children under 13 and we do not knowingly request account information from children. Users who are minors in their country should use the App only with permission and guidance from a parent or legal guardian.
 
@@ -144,7 +144,7 @@ You can also:
 - Clear local App data through Android settings
 - Uninstall the App
 - Reset or delete your Android Advertising ID through device settings
-- Use the Appâ€™s advertising privacy options when available
+- Use the App advertising privacy options when available
 - Control sharing by choosing whether to use the Android share function
 
 For privacy questions or requests, contact:
