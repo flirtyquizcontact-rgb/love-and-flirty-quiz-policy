@@ -11,7 +11,7 @@ If you do not agree, do not use the App.
 
 ## 1. Eligibility
 
-The App is intended for users aged **16 and older**.
+The App is intended for users aged **13 and older**.
 
 If you are under the age of legal majority in your country, you may use the App only with permission from a parent or legal guardian.
 
@@ -84,7 +84,7 @@ Premium features may evolve through updates. A purchase does not guarantee that 
 
 ## 8. Payment, Activation and Restoration
 
-All purchases are processed by Google Play under Googleâ€™s payment terms.
+All purchases are processed by Google Play under Google payment terms.
 
 - Prices, taxes and available payment methods are displayed by Google Play
 - QuizFans Studio does not receive your full payment card or banking information
@@ -100,7 +100,7 @@ The App may allow you to generate and share quiz result cards or text through th
 
 You choose the destination and are responsible for the content you share. External apps and platforms are governed by their own terms and privacy policies.
 
-Do not share another personâ€™s private information, image or result without permission.
+Do not share another persons private information, image or result without permission.
 
 ## 10. Intellectual Property
 
@@ -132,7 +132,7 @@ You may stop using the App at any time by uninstalling it.
 
 ## 14. Disclaimer of Warranties
 
-To the maximum extent permitted by law, the App is provided â€œas isâ€ and â€œas available.â€
+To the maximum extent permitted by law, the App is provided as is and as available.
 
 We do not guarantee:
 
@@ -158,7 +158,7 @@ Where liability cannot legally be excluded, it is limited to the extent permitte
 
 ## 16. Indemnity
 
-Where permitted by law, you agree to be responsible for claims or losses resulting from your unlawful misuse of the App, violation of these Terms or infringement of another personâ€™s rights.
+Where permitted by law, you agree to be responsible for claims or losses resulting from your unlawful misuse of the App, violation of these Terms or infringement of another person rights.
 
 ## 17. Privacy
 
@@ -170,7 +170,7 @@ https://flirtyquizcontact-rgb.github.io/love-and-flirty-quiz-policy/privacy_poli
 
 We may update these Terms because of legal, technical, security or product changes.
 
-The â€œLast updatedâ€ date identifies the latest revision. Continued use after an update means you accept the revised Terms, except where applicable law requires another form of consent.
+The Last update date identifies the latest revision. Continued use after an update means you accept the revised Terms, except where applicable law requires another form of consent.
 
 ## 19. Applicable Law
 
