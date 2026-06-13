@@ -5,7 +5,7 @@
 **Contact:** flirtyquiz.contact@gmail.com  
 **Android package:** com.loveflirtyquiz.app
 
-These Terms of Service (Terms) govern your use of **Flirty Vibes: Truth or Dare** (the â€œAppâ€). By downloading, installing, purchasing or using the App, you agree to these Terms.
+These Terms of Service (Terms) govern your use of **Flirty Vibes: Truth or Dare** (the App). By downloading, installing, purchasing or using the App, you agree to these Terms.
 
 If you do not agree, do not use the App.
 
