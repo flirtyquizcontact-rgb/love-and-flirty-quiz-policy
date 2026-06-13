@@ -5,7 +5,7 @@
 **Contact:** flirtyquiz.contact@gmail.com  
 **Android package:** com.loveflirtyquiz.app
 
-This Privacy Policy explains how **Flirty Vibes: Truth or Dare** (the â€œAppâ€, â€œweâ€, â€œourâ€ or â€œusâ€) handles information when you install or use the App.
+This Privacy Policy explains how **Flirty Vibes: Truth or Dare** (the App, we, our or us) handles information when you install or use the App.
 
 ## 1. Overview
 
