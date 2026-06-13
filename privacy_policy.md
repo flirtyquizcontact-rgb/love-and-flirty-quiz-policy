@@ -133,7 +133,7 @@ The App contains playful romantic themes and party challenges. Users should skip
 
 ## 13. International Processing
 
-Google and other service providers may process information in countries other than your country of residence. Such processing is subject to the providersâ€™ applicable safeguards and legal obligations.
+Google and other service providers may process information in countries other than your country of residence. Such processing is subject to the provider applicable safeguards and legal obligations.
 
 ## 14. Your Choices and Rights
 
