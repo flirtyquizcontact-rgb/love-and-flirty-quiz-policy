@@ -58,6 +58,28 @@ footer{border-top:1px solid var(--line);padding:25px 0 39px;font-size:.85rem;col
 @keyframes pulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.07);opacity:.5}}
 @media(max-width:770px){.hero{grid-template-columns:1fr;text-align:center;padding-top:45px}.lead{margin:auto}.buttons{justify-content:center}.hero-art{min-height:260px}.hero-art img{width:min(215px,60%)}.features{grid-template-columns:1fr}.info{padding:24px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important;transform:none!important}}
+
+/* Original Google Play screenshots gallery: responsive, keyboard and touch accessible */
+.qfs-gallery{--qfs-glow:#88e5fa;clear:both;width:100%;max-width:100%;min-width:0;margin:46px 0 58px;padding:clamp(19px,3vw,30px);background:linear-gradient(150deg,rgba(25,34,58,.79),rgba(12,18,35,.82));border:1px solid rgba(193,205,244,.2);border-radius:23px;box-shadow:0 15px 42px rgba(0,0,0,.15);color:#f4f8ff;text-align:left}
+.qfs-gallery *{box-sizing:border-box}
+.qfs-gallery-top{display:flex;gap:15px;align-items:flex-end;justify-content:space-between;flex-wrap:wrap;margin-bottom:18px}
+.qfs-gallery-label{display:block;color:var(--qfs-glow);font-size:.73rem;letter-spacing:.15em;text-transform:uppercase;font-weight:850;margin-bottom:7px}
+.qfs-gallery h2{font-size:clamp(1.42rem,2.8vw,2.1rem);line-height:1.2;letter-spacing:-.03em;margin:0 0 10px;color:#fff}
+.qfs-gallery-description{margin:0;color:#c4cede;font-size:.94rem;max-width:690px;line-height:1.7}
+.qfs-gallery-controls{display:flex;gap:9px;flex-shrink:0}
+.qfs-gallery button{appearance:none;cursor:pointer;width:43px;height:43px;border:1px solid rgba(210,226,255,.3);border-radius:12px;background:rgba(130,168,229,.13);color:#f6faff;font:700 1.2rem/1 system-ui,sans-serif;transition:background .2s,transform .2s}
+.qfs-gallery button:hover{background:rgba(146,201,242,.24);transform:translateY(-2px)}
+.qfs-gallery button:focus-visible,.qfs-gallery a:focus-visible{outline:3px solid #ffdc91;outline-offset:3px}
+.qfs-gallery-track{display:flex;gap:16px;width:100%;overflow-x:auto;overscroll-behavior-inline:contain;scroll-snap-type:x mandatory;scroll-padding-inline:4px;padding:5px 4px 19px;-webkit-overflow-scrolling:touch;scrollbar-width:thin;scrollbar-color:#778db4 transparent}
+.qfs-gallery-track:focus-visible{outline:2px solid var(--qfs-glow);outline-offset:-1px;border-radius:10px}
+.qfs-gallery-shot{flex:0 0 clamp(175px,22vw,234px);min-width:0;margin:0;scroll-snap-align:start;position:relative}
+.qfs-gallery-shot a{display:block;border-radius:18px;overflow:hidden;background:#090c1b;border:1px solid rgba(194,215,255,.27);box-shadow:0 12px 30px rgba(0,0,0,.3);transition:transform .25s ease,box-shadow .25s ease,border-color .25s ease}
+.qfs-gallery-shot a:hover{transform:translateY(-4px);box-shadow:0 18px 35px rgba(0,0,0,.4);border-color:var(--qfs-glow)}
+.qfs-gallery-shot img{display:block;width:100%;height:auto;aspect-ratio:9/16;object-fit:cover;background:linear-gradient(135deg,#122137,#0a0a18)}
+.qfs-gallery-shot figcaption{color:#d8e3f8;font-weight:670;font-size:.83rem;line-height:1.45;margin-top:11px;min-height:2.2em}
+.qfs-gallery-hint{color:#97aac6;font-size:.77rem;margin:4px 0 0;line-height:1.4}
+@media(max-width:720px){.qfs-gallery{padding:17px;margin:32px 0 42px;border-radius:19px}.qfs-gallery-track{gap:12px}.qfs-gallery-shot{flex-basis:clamp(164px,53vw,215px)}.qfs-gallery-top{align-items:flex-start}.qfs-gallery h2{font-size:1.5rem}}
+@media(prefers-reduced-motion:reduce){.qfs-gallery button,.qfs-gallery-shot a{transition:none!important;transform:none!important}.qfs-gallery-track{scroll-behavior:auto!important}}
 </style>
 </head>
 <body>
@@ -81,11 +103,47 @@ footer{border-top:1px solid var(--line);padding:25px 0 39px;font-size:.85rem;col
 <article class="card"><b>Couple quizzes</b><p>Explore relationship questions and unlock additional themed challenges and results.</p></article>
 <article class="card"><b>Daily rewards</b><p>Build streaks, complete missions, collect Love Hearts and unlock bonus games.</p></article>
 </div></section>
+
+<section class="qfs-gallery" id="screenshots-flirty" style="--qfs-glow:#f99bda" aria-labelledby="screenshots-title-flirty">
+ <div class="qfs-gallery-top">
+  <div><span class="qfs-gallery-label">Official Google Play screenshots</span>
+   <h2 id="screenshots-title-flirty">Choose a vibe. See the game.</h2>
+   <p class="qfs-gallery-description">Real screens from Google Play: Truth or Dare, local multiplayer, couple quizzes and randomized questions.</p>
+  </div>
+  <div class="qfs-gallery-controls" aria-label="Gallery navigation">
+   <button type="button" data-qfs-scroll="prev" aria-label="Scroll screenshots left">←</button>
+   <button type="button" data-qfs-scroll="next" aria-label="Scroll screenshots right">→</button>
+  </div>
+ </div>
+ <div class="qfs-gallery-track" role="group" aria-label="Four original Google Play screenshots" tabindex="0">
+  <figure class="qfs-gallery-shot"><a href="https://play-lh.googleusercontent.com/N2KhMgrTPaftSvDzK2GmQMzMSQeNjT0AW3v3r3i8Dzfrv9irhnVsesk1qyLLcI5ZFgdWkiF8Pr1IGVD_JJVr5g=w526-h296" rel="noopener noreferrer" target="_blank" aria-label="Open full screenshot: Truth or Dare"><img src="https://play-lh.googleusercontent.com/N2KhMgrTPaftSvDzK2GmQMzMSQeNjT0AW3v3r3i8Dzfrv9irhnVsesk1qyLLcI5ZFgdWkiF8Pr1IGVD_JJVr5g=w526-h296" loading="lazy" decoding="async" alt="Truth or Dare, official screenshot 1 of 4" width="234" height="416"></a><figcaption>Truth or Dare</figcaption></figure>
+  <figure class="qfs-gallery-shot"><a href="https://play-lh.googleusercontent.com/x13xYmN5OpBK188EX4Eeab585Ch76idJ-v3dmmV_DdAlyWTkozBuMyjBHpC-s6ZYUsuxnddEce5O4YCFflSuug=w526-h296" rel="noopener noreferrer" target="_blank" aria-label="Open full screenshot: Up to six players"><img src="https://play-lh.googleusercontent.com/x13xYmN5OpBK188EX4Eeab585Ch76idJ-v3dmmV_DdAlyWTkozBuMyjBHpC-s6ZYUsuxnddEce5O4YCFflSuug=w526-h296" loading="lazy" decoding="async" alt="Up to six players, official screenshot 2 of 4" width="234" height="416"></a><figcaption>Up to six players</figcaption></figure>
+  <figure class="qfs-gallery-shot"><a href="https://play-lh.googleusercontent.com/F1OrfqVmKsmzhiFFgDPC7XgH7cEWS1w2zLLRrHuuirlKWN91kdi3np8xTO8NQlSK8ciXNpbElSbCf1gJp0sK4Q=w526-h296" rel="noopener noreferrer" target="_blank" aria-label="Open full screenshot: Couples quizzes"><img src="https://play-lh.googleusercontent.com/F1OrfqVmKsmzhiFFgDPC7XgH7cEWS1w2zLLRrHuuirlKWN91kdi3np8xTO8NQlSK8ciXNpbElSbCf1gJp0sK4Q=w526-h296" loading="lazy" decoding="async" alt="Couples quizzes, official screenshot 3 of 4" width="234" height="416"></a><figcaption>Couples quizzes</figcaption></figure>
+  <figure class="qfs-gallery-shot"><a href="https://play-lh.googleusercontent.com/EVbMHkzeGyTRWRk8xg0H_p38yx8dowEIA6eFK97XKr5GDHHqHJncU9X6ySbZqper0EIEq-k06KTniEMaKmuMk-Q=w526-h296" rel="noopener noreferrer" target="_blank" aria-label="Open full screenshot: Fresh question order"><img src="https://play-lh.googleusercontent.com/EVbMHkzeGyTRWRk8xg0H_p38yx8dowEIA6eFK97XKr5GDHHqHJncU9X6ySbZqper0EIEq-k06KTniEMaKmuMk-Q=w526-h296" loading="lazy" decoding="async" alt="Fresh question order, official screenshot 4 of 4" width="234" height="416"></a><figcaption>Fresh question order</figcaption></figure>
+ </div>
+ <p class="qfs-gallery-hint">Swipe to explore more screenshots or use the arrows. Select a screenshot to view it separately.</p>
+</section>
 <section class="info"><h2 class="section-title">Clear rules. Clear privacy.</h2>
 <p>Core game content can be played locally without creating an account. Advertising, optional Premium features and supported Google services are described in the existing published legal documents. We link directly to those documents rather than duplicating their text.</p>
 <div class="buttons"><a class="btn" href="privacy_policy.md">Read the official Privacy Policy ↗</a><a class="btn" href="terms_of_service.md">Read the official Terms ↗</a><a class="btn" href="mailto:flirtyquiz.contact@gmail.com">Contact support ↗</a></div>
 </section>
 </main>
 <footer><div class="shell foot"><span>© 2026 Quiz Fans Studio</span><span><a href="https://flirtyquizcontact-rgb.github.io/">All apps</a> · <a href="privacy_policy.md">Privacy</a> · <a href="terms_of_service.md">Terms</a></span></div></footer>
+
+<script>
+/* Clickable gallery arrows; touch swipes and keyboard scrolling also work. */
+document.querySelectorAll(".qfs-gallery").forEach(function(section){
+  var rail=section.querySelector(".qfs-gallery-track");
+  if(!rail)return;
+  var reduced=window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  section.querySelectorAll("[data-qfs-scroll]").forEach(function(button){
+    button.addEventListener("click",function(){
+      var direction=button.getAttribute("data-qfs-scroll")==="prev"?-1:1;
+      var width=rail.querySelector(".qfs-gallery-shot")?.getBoundingClientRect().width || 210;
+      rail.scrollBy({left:direction*(width+16)*2,behavior:reduced?"auto":"smooth"});
+    });
+  });
+});
+</script>
 </body>
 </html>
